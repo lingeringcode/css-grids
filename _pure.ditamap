@@ -8,7 +8,7 @@
 
   <topichead id="principles-and-coding-pure-grid">
   	<topicmeta>
-  		<navtitle>Learning about Pure.css grid layouts</navtitle>
+  		<navtitle>Pure.css grid layouts</navtitle>
     </topicmeta>
 
     <topicref href="grids/purecss-grid/topics/c_pure_grid_overview.dita" type="concept" />

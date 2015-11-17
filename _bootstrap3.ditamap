@@ -8,7 +8,7 @@
 
   <topichead id="principles-and-coding-bs-grid">
   	<topicmeta>
-  		<navtitle>Learning about Bootstrap 3 grid layouts</navtitle>
+  		<navtitle>Bootstrap 3 grid layouts</navtitle>
     </topicmeta>
 
     <topicref href="grids/bootstrap3-grid/topics/c_bs_grid_overview.dita" type="concept" />

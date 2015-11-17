@@ -8,7 +8,7 @@
 
   <topichead id="principles-and-coding-flex-grid">
   	<topicmeta>
-  		<navtitle>Learning about flexbox grid layouts</navtitle>
+  		<navtitle>Flexbox grid layouts</navtitle>
     </topicmeta>
 
     <topicref href="grids/flexbox-grid/topics/c_flex_grid_overview.dita" type="concept" />

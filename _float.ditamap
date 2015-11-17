@@ -8,7 +8,7 @@
 
   <topichead id="principles-and-coding-fb-grid">
     <topicmeta>
-      <navtitle>Learning about float-based grid layouts</navtitle>
+      <navtitle>Float-based grid layouts</navtitle>
     </topicmeta>
 
     <topicref href="grids/float-grid/topics/c_fb_grid_overview.dita" type="concept" />
