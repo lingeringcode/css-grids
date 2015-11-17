@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
  "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/map.dtd">
-<!-- This file is part of the DITA Open Toolkit project hosted on 
-   Sourceforge.net. See the accompanying license.txt file for 
-   applicable licenses.-->
-<!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
- *-->
+
 <map id="float-grids">
 
   <title>Understanding and coding float-based grids</title>
 
-  <topichead id="understanding-css">
+  <topichead id="understanding-fb-grids">
 
     <topicref href="grids/float-grid/topics/c_float_grid_overview.dita" type="concept" />
 
@@ -33,13 +29,5 @@
       <topicref href="grids/float-grid/topics/t_coding_grid.dita" type="task"/>
     </topicgroup>
 
-    <!-- 
-    ** Old example of using a conref to a different map **
-    <topichead id="css-grid-tutorials">
-      <topicmeta><navtitle>Writing a float-based grid</navtitle></topicmeta>
-      <topichead conref="grids/float-grid/web_tutorial.ditamap#float-grid-map">
-        <topicref></topicref>
-      </topichead>
-    </topichead> -->
   </topichead>
 </map>
