@@ -6,35 +6,29 @@
 
   <title>Coding grids</title>
 
-  <topichead id="super-coding-grids">
 
-    <topicset id="c-fb-grid">
-      <topicmeta>
-        <navtitle>Bootstrap 3 Grid</navtitle>
-      </topicmeta>
-      <topicref href="grid_boostrap3.ditamap" type="ditamap"/>
-    </topicset>
+      <topicref href="_bootstrap3.ditamap" format="ditamap">
+        <topicmeta>
+          <navtitle>Bootstrap 3 Grid</navtitle>
+        </topicmeta>
+      </topicref>
 
-    <topicset id="c-fb-grid">
-      <topicmeta>
-        <navtitle>Flexbox Grid</navtitle>
-      </topicmeta>
-      <topicref href="grid_boostrap3.ditamap" type="ditamap"/>
-    </topicset>
+      <topicref href="_flexbox.ditamap" format="ditamap">
+        <topicmeta>
+          <navtitle>Flexbox Grid</navtitle>
+        </topicmeta>
+      </topicref>
 
-    <topicset id="c-fb-grid">
-      <topicmeta>
-        <navtitle>Float-based Grid</navtitle>
-      </topicmeta>
-      <topicref href="grid_float.ditamap" type="ditamap"/>
-    </topicset>
+      <topicref href="_float.ditamap" format="ditamap">
+        <topicmeta>
+          <navtitle>Float-based Grid</navtitle>
+        </topicmeta>
+      </topicref>
 
-    <topicset id="c-fb-grid">
-      <topicmeta>
-        <navtitle>Pure.css Grid</navtitle>
-      </topicmeta>
-      <topicref href="grid_pure.ditamap" type="ditamap"/>
-    </topicset>
+      <topicref href="_pure.ditamap" format="ditamap">
+        <topicmeta>
+          <navtitle>Pure.css Grid</navtitle>
+        </topicmeta>
+      </topicref>
 
-  </topichead>
 </map>

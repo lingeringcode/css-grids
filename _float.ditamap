@@ -7,8 +7,11 @@
   <title>Principles of float-based grids and how to code one</title>
 
   <topichead id="principles-and-coding-fb-grid">
+    <topicmeta>
+      <navtitle>Learning about float-based grid layouts</navtitle>
+    </topicmeta>
 
-    <topicref href="grids/float-grid/topics/c_float_grid_overview.dita" type="concept" />
+    <topicref href="grids/float-grid/topics/c_fb_grid_overview.dita" type="concept" />
 
     <topicset id="c-fb-grid">
       <topicmeta>

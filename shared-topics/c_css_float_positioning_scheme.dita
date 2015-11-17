@@ -5,7 +5,7 @@
 <concept id="c-float-positioning-scheme" xml:lang="en-us">
   <title>CSS float positioning scheme</title>
   <shortdesc>
-    Writing CSS involves learning about the different ways you can manipulate the '<xref href="http://www.w3.org/TR/2011/REC-CSS2-20110607/box.html" scope="external" >box model</xref>' and its positioning schemes. One important writing and design method is working with the float positioning scheme.
+    Learn about float positioning schemes in CSS.
   </shortdesc>
 
   <conbody id="c-fps-overview">
