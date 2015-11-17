@@ -2,15 +2,15 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
  "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/map.dtd">
 
-<map id="float-grids">
+<map id="m-fb-grid">
 
-  <title>Understanding and coding float-based grids</title>
+  <title>Principles of float-based grids and how to code one</title>
 
-  <topichead id="understanding-fb-grids">
+  <topichead id="principles-and-coding-fb-grid">
 
     <topicref href="grids/float-grid/topics/c_float_grid_overview.dita" type="concept" />
 
-    <topicset id="conceptual-float">
+    <topicset id="c-fb-grid">
       <topicmeta>
         <navtitle>What is 'float' positioning?</navtitle>
       </topicmeta>
@@ -25,7 +25,7 @@
       </topicref>
     </topicset>
 
-    <topicgroup id="task-float-grid">
+    <topicgroup id="t-fb-grid">
       <topicref href="grids/float-grid/topics/t_coding_grid.dita" type="task"/>
     </topicgroup>
 
