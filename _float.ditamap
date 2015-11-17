@@ -26,7 +26,7 @@
     </topicset>
 
     <topicgroup id="t-fb-grid">
-      <topicref href="grids/float-grid/topics/t_coding_grid.dita" type="task"/>
+      <topicref href="grids/float-grid/topics/t_fb_coding_grid.dita" type="task"/>
     </topicgroup>
 
   </topichead>
