@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+  "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/concept.dtd">
+
+<concept id="c-breakpoints-overview" xml:lang="en-us">
+  <title>CSS Breakpoints Overview</title>
+  <shortdesc>
+    Before you learn how to create responsive and adaptive web sites, you must learn how such layout methodologies operate by the concept of 'breakpoints'.
+  </shortdesc>
+
+  <conbody id="c-bp-overview">
+    <!-- Perhaps this R vs. A section is its own topic? -->
+    <h2>Responsive vs. Adaptive Design</h2>
+    <p>
+      Responsive web sites
+    </p>
+  </conbody>
+
+</concept>

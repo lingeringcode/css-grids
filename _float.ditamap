@@ -21,7 +21,7 @@
         <topicmeta>
           <navtitle>'float' positioning schemes</navtitle>
         </topicmeta>
-        <topicref href="shared-topics/c_css_declr_clear.dita" type="concept">
+        <topicref href="shared-topics/r_css_declr_clear.dita" type="reference">
           <topicref href="shared-topics/c_css_val_both.dita" type="concept"/>
           <topicref href="shared-topics/t_clearfix.dita" type="task"/>
         </topicref>

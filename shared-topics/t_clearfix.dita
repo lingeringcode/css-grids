@@ -15,7 +15,7 @@
       <steps>
         <step id="cf-step">
           <cmd>
-            In your CSS file, use the <xref href="c_css_declr_clear.dita"><codeph>clear</codeph></xref> declaration inside an <xref href="c_css_pseudo_elem_after.dita"><codeph>:after</codeph></xref> pseudo-element on a new <codeph>.cf</codeph> class to clear <xref href="c_css_val_both.dita"><codeph>both</codeph></xref> right and left sides of the parent containing block.</cmd>
+            In your CSS file, use the <xref href="r_css_declr_clear.dita"><codeph>clear</codeph></xref> declaration inside an <xref href="c_css_pseudo_elem_after.dita"><codeph>:after</codeph></xref> pseudo-element on a new <codeph>.cf</codeph> class to clear <xref href="c_css_val_both.dita"><codeph>both</codeph></xref> right and left sides of the parent containing block.</cmd>
           <stepxmp>
 <codeblock>
 .cf:after {
